@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d2895194d693b115",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c5e5ded53b31f16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ce6072e394d106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发文档/Python编程/for.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "for"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf953ada91e89466",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2da34d048db43d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d466ac34cc45f66c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0f8fd8b701d0a6ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "322c6b33dd9ddd1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "653a6bd4fb380267",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01b7beedadaadda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9c00668b123de3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5c5feb4b3fe72204",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "0d0aa23c8127bd5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "371d70b48b90304b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b692fd9de9b8a4c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高数/公式速记/常用三角公式.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "常用三角公式 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "31ce6072e394d106",
+  "lastOpenFiles": [
+    "开发文档/Python编程/for.md",
+    "开发文档/Python编程/functions.md",
+    "开发文档/Python编程/tuples.md",
+    "开发文档/Python编程/if.md",
+    "开发文档/Python编程/import.md",
+    "开发文档/Python编程/lists.md",
+    "开发文档/Python编程/operators.md",
+    "开发文档/Python编程/scopes.md",
+    "开发文档/Python编程/sets.md",
+    "开发文档/Python编程/while.md",
+    "开发文档/Python编程/variables.md",
+    "开发文档/解锁/基础工作/种植.md",
+    "开发文档/内置/函数.md",
+    "开发文档/解锁/基础工作/循环遍历.md",
+    "开发文档/解锁/基础工作/移动.md",
+    "开发文档/解锁/基础工作/速度升级.md",
+    "开发文档/解锁/基础工作/浇水.md",
+    "开发文档/解锁/基础工作/施肥.md",
+    "开发文档/解锁/基础工作/混合种植.md",
+    "开发文档/解锁/辅助功能/耗材数量.md",
+    "开发文档/解锁/辅助功能/调试2.md",
+    "开发文档/杂项/加载备份.md",
+    "开发文档/杂项/输出.md",
+    "开发文档/杂项/统计数据.md",
+    "开发文档/第一个程序.md",
+    "开发文档/入门指南.md",
+    "开发文档/Python编程/functions.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/for.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/dicts.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/debug.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/continue.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/while.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/variables.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/tuples.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/sets.md.baiduyun.uploading.cfg",
+    "开发文档/Python编程/scopes.md.baiduyun.uploading.cfg"
+  ]
+}

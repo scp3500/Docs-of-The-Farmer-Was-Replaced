@@ -1,0 +1,9 @@
+{
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "scripts/"
+  ],
+  "foldIndent": true,
+  "focusNewTab": true,
+  "defaultViewMode": "source"
+}
